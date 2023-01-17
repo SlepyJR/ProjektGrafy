@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1673955470 source:x:\codeblocks\projektgrafy\main.cpp
+	<iostream>
+	<iomanip>
+
